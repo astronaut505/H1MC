@@ -1,3 +1,2 @@
-# ignore things here
-.vs
-x64
+.vscode
+*.exe
